@@ -1,3 +1,2 @@
-*.dat
-results/data
-results/plots
+/results
+!/data
